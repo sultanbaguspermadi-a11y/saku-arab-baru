@@ -1,0 +1,26 @@
+{
+  "name": "sakuarab-api",
+  "version": "1.0.0",
+  "description": "REST API kamus SakuArab menggunakan Express dan SQLite",
+  "main": "server.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "import:words": "node scripts/import-words.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0"
+  },
+  "devDependencies": {
+    "supertest": "^7.0.0"
+  }
+}

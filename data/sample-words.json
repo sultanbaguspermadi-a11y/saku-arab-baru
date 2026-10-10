@@ -1,0 +1,56 @@
+[
+  {
+    "major": "RPL",
+    "arabic": "حَاسُوب",
+    "latin": "ḥāsūb",
+    "meaning": "komputer",
+    "category": "Komputer dan perangkat",
+    "example_ar": "أَسْتَخْدِمُ الْحَاسُوبَ كُلَّ يَوْمٍ",
+    "example_id": "Saya memakai komputer setiap hari"
+  },
+  {
+    "major": "RPL",
+    "arabic": "شَاشَة",
+    "latin": "syāsyah",
+    "meaning": "layar",
+    "category": "Komputer dan perangkat",
+    "example_ar": "الشَّاشَةُ كَبِيرَةٌ",
+    "example_id": "Layarnya besar"
+  },
+  {
+    "major": "Akuntansi",
+    "arabic": "حِسَاب",
+    "latin": "ḥisāb",
+    "meaning": "rekening; perhitungan",
+    "category": "Akuntansi dasar",
+    "example_ar": "أُرَاجِعُ الْحِسَابَ كُلَّ يَوْمٍ",
+    "example_id": "Saya memeriksa perhitungan setiap hari"
+  },
+  {
+    "major": "TBKR",
+    "arabic": "سَيَّارَة",
+    "latin": "sayyārah",
+    "meaning": "mobil",
+    "category": "Kendaraan",
+    "example_ar": "السَّيَّارَةُ فِي الْوَرْشَةِ",
+    "example_id": "Mobil itu berada di bengkel"
+  },
+  {
+    "major": "TSM",
+    "arabic": "مُحَرِّك",
+    "latin": "muḥarrik",
+    "meaning": "mesin",
+    "category": "Mesin dan perawatan",
+    "example_ar": "الْمُحَرِّكُ يَعْمَلُ بِشَكْلٍ جَيِّدٍ",
+    "example_id": "Mesin itu bekerja dengan baik"
+  },
+  {
+    "major": "Umum",
+    "arabic": "عَمَل",
+    "latin": "‘amal",
+    "meaning": "pekerjaan",
+    "category": "Dunia kerja",
+    "example_ar": "أُحِبُّ عَمَلِي",
+    "example_id": "Saya menyukai pekerjaan saya"
+  }
+]
